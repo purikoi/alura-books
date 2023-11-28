@@ -14,6 +14,8 @@
     --fonte-principal: "Poppins";
     --fonte-secundaria: "Josefin Sans";
     --preto: #00000;
+    --cinza: #474646;
+    --cinza-claro: #858585;
 }
 
 body {
